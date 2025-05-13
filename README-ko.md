@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
-# 모델 컨텍스트 프로토콜 (MCP) 서버 엄선 목록
+# 모델 컨텍스트 프로토콜 (MCP) 서버 엄선 목록(안녕하세요)
 
 * [MCP란 무엇인가?](#mcp란-무엇인가)
 * [클라이언트](#클라이언트)
